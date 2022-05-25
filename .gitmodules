@@ -1,0 +1,3 @@
+[submodule "prot"]
+	path = prot
+	url = git@github.com:share-framework/share-protocol.git
